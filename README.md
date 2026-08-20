@@ -162,7 +162,7 @@ An Ultimate-upgraded equipped weapon is displayed with a **purple weapon icon**.
 The Python host program is:
 
 ```text
-project_mice_fpga_v8_game_synced_music.py
+project_mice_v2.py
 ```
 
 It uses **pygame**, **pynput**, and **pyserial**.
